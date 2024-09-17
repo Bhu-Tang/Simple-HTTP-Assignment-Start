@@ -3,15 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "start": "node .src/server.js",
-    "pretest": "eslint ./src --fix",
-    "test": "echo \"Tests complete\""
-=======
     "start": "node ./src/server.js",
     "pretest": "eslint ./src --fix",
     "test": "echo \"Tests Complete\""
->>>>>>> 5933887240bddae1c0547b61b2dae0e762e6d629
   },
   "keywords": [],
   "author": "",
